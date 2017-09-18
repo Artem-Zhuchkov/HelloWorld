@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="Resource1">Hello Fuckers</string>
+    <string name="Resource2">Glad you are here!</string>
+    <string name="Button1">Next</string>
+
+</resources>
